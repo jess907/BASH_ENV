@@ -1,0 +1,12 @@
+# This is Git's per-user configuration file.
+[user]
+# Please adapt and uncomment the following lines:
+#	name = "Jeesoo Chang"
+#	email = jess907@naver.com
+[user]
+	name = jess907
+	email = jess907@naver.com
+[push]
+	default = simple
+[github]
+	name = jess907

@@ -1,0 +1,5 @@
+echo '${HOME}/.myenv is sourced'
+echo ""
+echo "Welcome to JEESOO's Home"
+export DISPLAY=:0
+export LANG=en_US.UTF-8
